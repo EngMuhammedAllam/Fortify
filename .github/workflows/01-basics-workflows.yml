@@ -10,4 +10,3 @@ jobs:
             - run: echo "Hello World"
             - run: echo "Hello World 2"
             - run: echo "Hello World 3"
-            
