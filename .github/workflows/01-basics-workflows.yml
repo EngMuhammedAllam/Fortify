@@ -7,6 +7,5 @@ jobs:
     print-hello-world:
         runs-on: ubuntu-latest
         steps:
-            - run: echo "Hello World"
-            - run: echo "Hello World 2"
-            - run: echo "Hello World 3"
+            - name: Print Hello World
+              run: echo "Hello World 2"
